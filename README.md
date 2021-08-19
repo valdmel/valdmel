@@ -7,7 +7,7 @@ In here you can find a variety of projects I've been working on my own, such as 
 I started coding at very early age - at around 14 years old - as I wanted to learn how to create games. My first contact with programming happened in the mid 2000s, when I started to work with RPG Maker XP and Ruby. A few years later, I moved to GameMaker 7 (and eventually GameMaker Studio 1 and 2) to work with GML (Game Maker Language, the engine's built-in scripting language), where I created most of my games (which unfortunately, I lost access to all the source code) and a 2D game engine I called Hammer2D.
 In 2019, I decided to move one step foward and started to study Unity on my own, and that's where I simply fell in love with the engine, even developing my own 2D game engine/framework called Omega (which is hosted in here as a private repository :stuck_out_tongue:) to use on my own projects.
 
-My work portfolio includes working with both back-end and front-end applications using different technologies such as Spring, Angular, Git, Java, C, C++, C# and more. I also had the opportunity to work with mainframe computers and COBOL.
+As a professional developer, my work portfolio includes working with both back-end and front-end applications using different technologies such as Spring, Angular, Git, Java, C, C++, C# and more. I also had the opportunity to work with mainframe computers and COBOL.
 
 I'm also ardent for creative and engaging ideas across game development, where I've worked independently as a programmer, artist and designer for more than 5 years.
 ## :pushpin: Social Media
@@ -18,7 +18,10 @@ I'm also ardent for creative and engaging ideas across game development, where I
 
 ### Back-end
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+![Kotlin]( https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=c%2B%2B)
 
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
