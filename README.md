@@ -16,14 +16,14 @@ I'm also ardent for creative and engaging ideas across game development, where I
 
 ## :computer: Technologies
 
-### Back-end
+#### Back-end
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=c%2B%2B)
 
-### Front-end
+#### Front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -31,8 +31,7 @@ I'm also ardent for creative and engaging ideas across game development, where I
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Angular](https://img.shields.io/badge/-Angular-c14438?style=flat-square&logo=angular)
 
-### Tools
-
+#### Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
