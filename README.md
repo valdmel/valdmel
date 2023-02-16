@@ -5,7 +5,7 @@ I'm a Brazilian fullstack software engineer currently working at Banco Itaú S/A
 In here you can find a variety of projects I've been working on my own, such as Unity games, small APIs, front-end applications and more.
 
 I started coding at a very early age - around 14 years old - as I wanted to learn how to create games. My first contact with programming happened around the mid-2000s, when I started to work with RPG Maker XP and Ruby. A few years later, I moved to GameMaker 7 (and eventually GameMaker Studio 1 and 2) to work with GML (Game Maker Language, the engine's built-in scripting language), where I created most of my games and a 2D game engine I called Hammer2D.
-In 2019, I decided to move one step foward and started to study Unity on my own and that's where I simply fell in love with the engine. I even developed my own 2D game engine/framework in Unity called Omega Engine (which is hosted as a private repository :stuck_out_tongue:) to use on my own projects.
+In 2019, I decided to move one step forward and started to study Unity on my own and that's where I simply fell in love with the engine. I even developed my own 2D game engine/framework in Unity called Omega Engine (which is hosted as a private repository :stuck_out_tongue:) to use on my own projects.
 
 As a professional developer, my work portfolio includes working with both back-end and front-end applications using different technologies such as Spring, Angular, Git, Java, C, C++, C# and more. I also had the opportunity to work with mainframe computers and COBOL.
 
